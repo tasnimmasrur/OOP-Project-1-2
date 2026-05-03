@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1776426857 source:c:\users\masru\desktop\new folder\oop4\engine.cpp
+	"Engine.h"
+	"Exception.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<cstdio>
+
+1776426337 c:\users\masru\desktop\new folder\oop4\engine.h
+	<map>
+	<string>
+	<vector>
+	"User.h"
+	"Rule.h"
+	"Storage.h"
+
+1776426337 c:\users\masru\desktop\new folder\oop4\user.h
+	<iostream>
+	<vector>
+	<string>
+	"Logger.h"
+
+1776426337 c:\users\masru\desktop\new folder\oop4\logger.h
+	<string>
+	<iostream>
+
+1776426337 c:\users\masru\desktop\new folder\oop4\rule.h
+	<string>
+
+1776426337 c:\users\masru\desktop\new folder\oop4\storage.h
+	<vector>
+
+1776426337 c:\users\masru\desktop\new folder\oop4\exception.h
+	<string>
+
+1776426337 source:c:\users\masru\desktop\new folder\oop4\rule.cpp
+	"Rule.h"
+
+1776426337 source:c:\users\masru\desktop\new folder\oop4\user.cpp
+	"User.h"
+	"Exception.h"
+
+1776426337 source:c:\users\masru\desktop\new folder\oop4\main.cpp
+	<iostream>
+	<string>
+	"Engine.h"
+	"Exception.h"
+
+1777822620 source:c:\users\masru\desktop\new folder\oop4 - copy\engine.cpp
+	"Engine.h"
+	"Exception.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<cstdio>
+	<iomanip>
+	<windows.h>
+
+1777822604 c:\users\masru\desktop\new folder\oop4 - copy\engine.h
+	<map>
+	<string>
+	<vector>
+	"User.h"
+	"Rule.h"
+	"Storage.h"
+
+1777822573 c:\users\masru\desktop\new folder\oop4 - copy\user.h
+	<iostream>
+	<vector>
+	<string>
+	"Logger.h"
+
+1776426337 c:\users\masru\desktop\new folder\oop4 - copy\logger.h
+	<string>
+	<iostream>
+
+1776426337 c:\users\masru\desktop\new folder\oop4 - copy\rule.h
+	<string>
+
+1777820153 c:\users\masru\desktop\new folder\oop4 - copy\storage.h
+	<vector>
+
+1776426337 c:\users\masru\desktop\new folder\oop4 - copy\exception.h
+	<string>
+
+1776426337 source:c:\users\masru\desktop\new folder\oop4 - copy\rule.cpp
+	"Rule.h"
+
+1777822590 source:c:\users\masru\desktop\new folder\oop4 - copy\user.cpp
+	"User.h"
+	"Exception.h"
+
+1777822641 source:c:\users\masru\desktop\new folder\oop4 - copy\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<chrono>
+	<thread>
+	"Engine.h"
+	"Exception.h"
+
